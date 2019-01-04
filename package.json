@@ -1,0 +1,10 @@
+{
+  "name": "markdown-magic-yarn-workspaces-list",
+  "version": "1.0.0",
+  "description": "Create a list of yarn workspaces with links to README files.",
+  "main": "index.js",
+  "repository": "https://github.com/jmaher409/markdown-magic-yarn-workspaces-list.git",
+  "author": "Justin Maher <justin.m.maher@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
